@@ -7,23 +7,40 @@ Streamlit
 Other required Python packages (e.g. scikit-learn, pandas)
 ## Installation
 Clone or download the repository
-Install the required packages:
+## Getting Started
+   To use this app, follow these steps:
+   
+   1. Make sure you have Python and pip installed on your machine. You can check if you have these installed by 
+   running the following commands in your terminal:
+   
+   
+   ```python
+   python --version
+   pip --version
+   ```
+   
+   If you do not have Python or `pip` installed, you can install them by following the instructions [here](https://realpython.com/installing-python/)
+   
+   2. Clone this repository and navigate to the root directory of the project.
+   
+   
+   ```python
+   git clone https://github.com/Ag994/Loan-Prediction-APP.git
+   cd Loan-Prediction-APP
+   ```
+   
+   3. Install the required dependencies.
+   
 
-```python
+   ```python
    pip install -r requirements.txt
    ```
-
-## Usage
-To run the app, navigate to the directory where the app.py file is located and run:
-
-```python
-streamlit run app.py
-```
-
-The app will then be accessible at http://localhost:8501.
-
-## Data
-The data used in this project is available in the data directory. It consists of information on past loans and whether or not they were repaid.
-
-## Model Training
-The machine learning model is trained using the train.py script. The training data is loaded from the data directory and the trained model is saved to the models directory.
+   
+   This will install the `pandas` and `streamlit` libraries, which are needed to run the app.
+   
+   4. Launch the app by running the following command from the root directory of the project:
+   
+   
+   ```python
+   streamlit run app.py
+   ```
