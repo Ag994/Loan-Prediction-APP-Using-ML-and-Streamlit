@@ -1,6 +1,8 @@
 # Loan Prediction App
 This project uses machine learning, Python, and Streamlit to create a web application that predicts the likelihood of a loan being repaid.
 
+[App Link](https://ag994-loan-prediction-app-app-ll7m6m.streamlit.app/)
+
 ## Requirements
 Python 3.6 or higher
 Streamlit
