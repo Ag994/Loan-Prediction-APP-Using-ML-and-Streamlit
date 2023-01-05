@@ -7,6 +7,9 @@ Streamlit
 Other required Python packages (e.g. scikit-learn, pandas)
 ## Installation
 Clone or download the repository
+```
+git clone https://github.com/Ag994/Loan-Prediction-APP.git
+```
 ## Getting Started
    To use this app, follow these steps:
    
