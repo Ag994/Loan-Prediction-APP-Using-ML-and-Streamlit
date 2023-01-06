@@ -4,6 +4,8 @@ This project uses machine learning, Python, and Streamlit to create a web applic
 
 [App Link](https://ag994-loan-prediction-app-app-ll7m6m.streamlit.app/)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ag994-loan-prediction-app-app-ll7m6m.streamlit.app/)
+
 ## Requirements
 Python 3.6 or higher
 Streamlit
