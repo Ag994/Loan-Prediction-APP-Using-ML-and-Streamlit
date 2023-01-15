@@ -36,7 +36,7 @@ def predict():
     if prediction == 1:
         st.success('You Can Get The Loan:thumbsup:')
     else:
-        st.error('Sorry You Cant The Loan:thumbsdown:')
+        st.error('Sorry You Cant Get The Loan:thumbsdown:')
 
 
 m = st.markdown("""
